@@ -96,10 +96,10 @@ input:checked:before {
   transform: translate(100%);
 }
 .darkmode{
-  background-color: blue;
+  background-color: black;
 }
 .lightmode{
-  background-color:green;
+  background-color:gray;
 }
 .topMenuDarkMode{
   color:gray;
