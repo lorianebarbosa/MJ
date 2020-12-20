@@ -99,7 +99,7 @@ input:checked:before {
   background-color: black;
 }
 .lightmode{
-  background-color:gray;
+  background-color:light blue;
 }
 .topMenuDarkMode{
   color:gray;
